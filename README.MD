@@ -1,5 +1,7 @@
 This is my final project for Udacity course Intro to Machine Learning
 
+The goal was to identify persons of interest in the Enron fraud case using financial data and emails of top executives of the company.
+
 I share my python code as well as .pkl files containing my dataset, my classifier, and a list of features used.
 
 File *Final_project.pdf* contains summary of my project.
