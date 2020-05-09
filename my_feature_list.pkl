@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'bonus'
+p3
+aS'bonus_to_salary'
+p4
+aS'from_poi_weighted'
+p5
+aS'to_poi_weighted'
+p6
+aS'shared_poi_weighted'
+p7
+a.
